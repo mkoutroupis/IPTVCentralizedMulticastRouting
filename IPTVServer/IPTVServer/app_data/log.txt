@@ -1,0 +1,9 @@
+1	Normal	SubscriptionHolder instantiated successfully.
+2	Normal	UniverseFileParser instantiated successfully.
+3	Normal	UniverseParser validated successfully.
+4	Normal	UniverseParser parsed successfully.
+5	Normal	UniverseHolder instantiated successfully.
+6	Normal	SubscriptionHolder instantiated successfully.
+7	Normal	SubscriptionHolder instantiated successfully.
+8	Normal	MessageHolder instantiated successfully.
+9	Normal	Server instantiated successfully.
